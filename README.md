@@ -6,6 +6,7 @@ I am a Computer Science student passionate about technology, programming, and bu
 
 ---
 
+---
 
 🚀 Technical Skills
 
@@ -13,10 +14,9 @@ I am a Computer Science student passionate about technology, programming, and bu
 
 <img src="https://skillicons.dev/icons?i=javascript,python" />JavaScript • Python
 
-## 🗄️ Database Technologies
+🗄️ Database Management
 
-<img src="https://skillicons.dev/icons?i=mssql" />
-**SQL Server** • Database Management • Query Development
+<img src="https://skillicons.dev/icons?i=sqlserver" />SQL Server
 
 🔧 Tools & Development Environment
 
@@ -29,8 +29,9 @@ I am a Computer Science student passionate about technology, programming, and bu
 🚀 Improving front-end development skills
 🗄️ Expanding database knowledge
 💻 Building practical programming projects
-🧠 Strengthening problem-solving skill
+🧠 Strengthening problem-solving skills
 
 ---
 
 
+🐙 GitHub: YOUR_USERNAME
