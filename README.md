@@ -5,7 +5,13 @@
 I am a Computer Science student passionate about technology, programming, and building practical solutions. I enjoy learning new skills, creating projects, and improving my knowledge through continuous practice.
 
 ---
+## 🚀 Projects
 
+1. [TravelWorld Website](https://github.com/Naima-89/git-github-practice.git)
+   - A front-end website built with HTML, CSS, and JavaScript.
+
+2. [Travel Gallery](https://github.com/Naima-89/Travel-Gallery.git)
+   - A creative travel gallery project showcasing destinations with a responsive design.
 ---
 
 🚀 Technical Skills
