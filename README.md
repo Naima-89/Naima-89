@@ -2,7 +2,6 @@
 💻 Computer Science Student | 🌐 Web Developer | 🚀 Technology Enthusiast
 
 I am a Computer Science student passionate about technology, programming, and building practical solutions. I enjoy learning new skills, creating projects, and improving my knowledge through continuous practice.
-
 ---
 ## 🚀 Projects
 [TravelWorld Website](https://github.com/Naima-89/git-github-practice.git)
@@ -24,13 +23,6 @@ I am a Computer Science student passionate about technology, programming, and bu
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />Git • GitHub • VS Code
 
----
-
-📚 Currently Learning
-
-🚀 Improving front-end development skills
-🗄️ Expanding database knowledge
-💻 Building practical programming projects
 ---
 
 
