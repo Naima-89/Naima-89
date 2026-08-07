@@ -16,7 +16,6 @@ I am a Computer Science student passionate about technology, programming, and bu
 ## 🗄️ Database Technologies
 
 <img src="https://skillicons.dev/icons?i=mssql" />
-
 **SQL Server** • Database Management • Query Development
 
 🔧 Tools & Development Environment
