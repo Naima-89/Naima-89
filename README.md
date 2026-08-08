@@ -6,7 +6,7 @@ I am a Computer Science student passionate about technology, programming, and bu
 ## 🚀 Projects
 [TravelWorld Website](https://github.com/Naima-89/git-github-practice.git)
    - A front-end website built with HTML, CSS, and JavaScript.
-   - 
+     
  [Travel Gallery](https://github.com/Naima-89/Travel-Gallery.git)
    - A creative travel gallery project showcasing destinations with a responsive design.
 ---
