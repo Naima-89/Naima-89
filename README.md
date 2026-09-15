@@ -10,17 +10,16 @@ I am a Computer Science student passionate about technology, programming, and bu
  [Travel Gallery](https://github.com/Naima-89/Travel-Gallery.git)
    - A creative travel gallery project showcasing destinations with a responsive design.
 ---
-🚀 Technical Skills
+🛠️ Technical Skills
+💻 Programming & Web Technologies
 
-💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
 
-<img src="https://skillicons.dev/icons?i=javascript,python" />JavaScript • Python
+HTML • CSS • JavaScript
 
 🔧 Tools & Development Environment
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />Git • GitHub • VS Code
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
----
-
-
+Git • GitHub • VS Code
 
