@@ -1,5 +1,5 @@
 👋 Hi, I'm Nimca
-💻 Computer Science Student | 🌐 Web Developer | 🚀 Technology Enthusiast
+💻 Computer application Student | 🌐 Web Developer | 🚀 Technology Enthusiast
 
 I am a Computer Science student passionate about technology, programming, and building practical solutions. I enjoy learning new skills, creating projects, and improving my knowledge through continuous practice.
 ---
